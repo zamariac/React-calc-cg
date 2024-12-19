@@ -1,0 +1,14 @@
+
+  .operator-gray {
+    background-color: #505050;
+    color: white;
+  }
+  
+  .operator {
+    background-color: #FF9500;
+    color: white;
+  }
+  
+  .equal {
+    border-bottom-right-radius: 10px;
+  }
